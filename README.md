@@ -36,4 +36,4 @@ This part of the project involves using the trained YOLOv8 model to detect car p
 
 - Selecting the parking slot coordinates from the captured image.
 
-- Running the `final_slot_detection.ipynb` notebook to detect empty slots in real-time videos and displaying the total number of empty slots in the parking area.
+- Running the `main.ipynb` notebook to detect empty slots in real-time videos and displaying the total number of empty slots in the parking area.
